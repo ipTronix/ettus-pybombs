@@ -2,7 +2,7 @@
 
 category: hardware
 depends: null
-source: git+https://github.com/EttusResearch/fpga.git
+source: git+https://github.com/ipTronix/fpga.git
 gitbranch: master
 inherit: empty
 configuredir: .
